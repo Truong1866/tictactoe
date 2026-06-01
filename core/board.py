@@ -28,7 +28,7 @@ class ZobristTable:
         return cls._instance
 
     def _build(self) -> None:
-        rng = random.Random(0xC4R0_2025)
+        rng = random.Random(20260408)
         # table[cell_index][stone_type]: stone_type 0=BLACK, 1=WHITE
         self.table: list[list[int]] = [
             [rng.getrandbits(64), rng.getrandbits(64)]

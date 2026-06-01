@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de58ff40-92be-46ba-95cf-846f219fbb58" name="Changes" comment="" />
+    <list default="true" id="de58ff40-92be-46ba-95cf-846f219fbb58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend_pyqt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend_pyqt/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend_web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/board.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/board.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,61 +34,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000001554" />
-      <entry key="S2" value="1.0043024898715796" />
-      <entry key="S5" value="1.7883252496485107" />
-      <entry key="S10" value="5.80613011567736" />
-      <entry key="S30" value="20.543991050425443" />
-      <entry key="S60" value="33.536021917023376" />
-      <entry key="M2" value="45.31851720789171" />
-      <entry key="M5" value="55.44345055889233" />
-      <entry key="M10" value="59.513889146257384" />
-      <entry key="M15" value="60.96080512739793" />
-      <entry key="M30" value="62.455581016177334" />
-      <entry key="H1" value="63.22147100577557" />
-      <entry key="H2" value="63.60914112461664" />
-      <entry key="H4" value="63.80417013979674" />
-      <entry key="D1" value="63.96730591987135" />
-      <entry key="W1" value="63.99532804928912" />
+      <entry key="MS100" value="2.060557509844744E-84" />
+      <entry key="MS500" value="2.2648875641895833E-17" />
+      <entry key="S2" value="1.1124719671375203E-4" />
+      <entry key="S5" value="0.05401899237001573" />
+      <entry key="S10" value="0.9321779650792001" />
+      <entry key="S30" value="11.077341109217748" />
+      <entry key="S60" value="24.75905507537549" />
+      <entry key="M2" value="39.21624899170106" />
+      <entry key="M5" value="52.807308761978334" />
+      <entry key="M10" value="58.53217710148459" />
+      <entry key="M15" value="60.60056299127891" />
+      <entry key="M30" value="62.75517739725464" />
+      <entry key="H1" value="63.86605648914025" />
+      <entry key="H2" value="64.43011249916323" />
+      <entry key="H4" value="64.7143231839614" />
+      <entry key="D1" value="64.95228503017854" />
+      <entry key="W1" value="64.99318106907737" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000002" />
+      <entry key="S2" value="1.0001126004333356" />
+      <entry key="S5" value="1.0263400154126234" />
+      <entry key="S10" value="1.1622960733123988" />
+      <entry key="S30" value="1.5454680750674374" />
+      <entry key="S60" value="1.7385581054104255" />
+      <entry key="M2" value="1.8593940338461894" />
+      <entry key="M5" value="1.941189197128557" />
+      <entry key="M10" value="1.9701490592319084" />
+      <entry key="M15" value="1.9799990271851224" />
+      <entry key="M30" value="1.9899490023153326" />
+      <entry key="H1" value="1.9949618094757873" />
+      <entry key="H2" value="1.9974777237992773" />
+      <entry key="H4" value="1.9987380656605" />
+      <entry key="D1" value="1.9997895669359536" />
+      <entry key="W1" value="1.9999699354222071" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726549474122855" />
-      <entry key="MS500" value="0.9944701686733691" />
-      <entry key="S2" value="1.0029113458253915" />
-      <entry key="S5" value="1.7872236167011597" />
-      <entry key="S10" value="5.8037186197773565" />
-      <entry key="S30" value="20.540308825764075" />
-      <entry key="S60" value="33.53284620658622" />
-      <entry key="M2" value="45.316322216071505" />
-      <entry key="M5" value="55.44236357090807" />
-      <entry key="M10" value="59.513303601351964" />
-      <entry key="M15" value="60.96040479491304" />
-      <entry key="M30" value="62.45537569932708" />
-      <entry key="H1" value="63.22136702759878" />
-      <entry key="H2" value="63.609088801490294" />
-      <entry key="H4" value="63.804143894206014" />
-      <entry key="D1" value="63.967301533891515" />
-      <entry key="W1" value="63.995327422433114" />
+      <entry key="MS100" value="1.0053601285004557E-4" />
+      <entry key="MS500" value="0.15865886075247562" />
+      <entry key="S2" value="0.6312936902088044" />
+      <entry key="S5" value="0.9055475589144771" />
+      <entry key="S10" value="1.983925944237994" />
+      <entry key="S30" value="12.564238742183601" />
+      <entry key="S60" value="26.46193073190968" />
+      <entry key="M2" value="41.055485965363786" />
+      <entry key="M5" value="54.7397277680765" />
+      <entry key="M10" value="60.49780622972789" />
+      <entry key="M15" value="62.577517306713666" />
+      <entry key="M30" value="64.74358794313531" />
+      <entry key="H1" value="65.86024497013929" />
+      <entry key="H2" value="66.42720252406129" />
+      <entry key="H4" value="66.71286714029257" />
+      <entry key="D1" value="66.95204220936176" />
+      <entry key="W1" value="66.99314637678995" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -81,6 +96,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3EUupdDg7TzQNn9i7hMr6pS1sKi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,6 +106,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
     "Python.run.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -98,7 +117,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/truong/Documents/projects/python/tictactoe_pyqt6",
+    "last_opened_file_path": "/home/truong/Documents/projects/python/gokumo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -315,13 +334,27 @@
       <workItem from="1780245654156" duration="1139000" />
       <workItem from="1780292858362" duration="2674000" />
       <workItem from="1780304165983" duration="91000" />
+      <workItem from="1780324362962" duration="303000" />
+      <workItem from="1780324976589" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/__init__.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/gomoku_app$run.coverage" NAME="run Coverage Results" MODIFIED="1780246694838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gokumo$app.coverage" NAME="app Coverage Results" MODIFIED="1780325288784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frontend_pyqt" />
   </component>
 </project>
